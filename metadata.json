@@ -1,0 +1,7 @@
+{
+  "name": "Abdul Qadeer's AI Assistant",
+  "description": "A professional sales assistant for website designer Abdul Qadeer, helping businesses grow their online presence through interactive chat and voice conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
